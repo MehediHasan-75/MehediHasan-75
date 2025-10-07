@@ -1,10 +1,14 @@
 ## About Me 🚀
 
+<a href="https://github.com/MehediHasan-75"><img src="https://img.shields.io/badge/GitHub-%23000000?style=flat&logo=github&logoColor=white" alt="GitHub" style="vertical-align:middle; margin-right:10px;"/></a>
+<a href="https://www.linkedin.com/in/mehedihasan"><img src="https://img.shields.io/badge/LinkedIn-%2300A0DC?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:middle; margin-right:10px;"/></a>
+<a href="https://codeforces.com/profile/Mehedi_34"><img src="https://img.shields.io/badge/Codeforces-%23000000?style=flat&logo=codeforces&logoColor=white" alt="Codeforces" style="vertical-align:middle; margin-right:10px;"/></a>
+<a href="/"><img src="https://img.shields.io/badge/Portfolio-%23000000?style=flat&logo=apache&logoColor=white" alt="Portfolio" style="vertical-align:middle; margin-right:10px;"/></a>
+
 I am a **Problem Solver** & **Ex-Trainee Software Engineer** with a strong foundation in **Full-stack Development**, **Machine Learning**, and **AI**.  
 Currently, I am working on building AI-powered solutions with **Next.js**, **Django**, **Node.js**, and **LLMs** (Large Language Models).  
 I am passionate about developing **innovative AI applications**, from **real-time web apps** to **AI voice assistants**.
 
----
 
 ## Technical Skills & Achievements 🛠🏆
 
@@ -31,18 +35,3 @@ I am passionate about developing **innovative AI applications**, from **real-tim
   </tr>
 </table>
 
----
-
-## Let's Connect 🔗
-
-- [GitHub](https://github.com/MehediHasan-75)  
-- [LinkedIn](https://www.linkedin.com/in/mehedihasan)  
-- [Codeforces](https://codeforces.com/profile/Mehedi_34)  
-- [Portfolio](/)
-
----
-
-## Currently Learning 📚
-
-- **Large Language Models (LLMs)** & **AI-powered Chatbots**  
-- **Building real-time AI applications** with **Next.js** and **Django**
