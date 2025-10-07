@@ -34,4 +34,3 @@ I am passionate about developing **innovative AI applications**, from **real-tim
     </td>
   </tr>
 </table>
-
