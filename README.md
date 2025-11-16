@@ -5,7 +5,7 @@ I am passionate about developing **innovative AI applications**, from **real-tim
 
 ---
 <div style="text-align:center;">
-  <a href="https://www.linkedin.com/in/mehedihasan"><img src="https://img.shields.io/badge/LinkedIn-%2300A0DC?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:middle; margin-right:10px;"/></a>
+  <a href="https://www.linkedin.com/in/mehedi-hasan-075379206/"><img src="https://img.shields.io/badge/LinkedIn-%2300A0DC?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:middle; margin-right:10px;"/></a>
   <a href="https://codeforces.com/profile/Mehedi_34"><img src="https://img.shields.io/badge/Codeforces-%23000000?style=flat&logo=codeforces&logoColor=white" alt="Codeforces" style="vertical-align:middle; margin-right:10px;"/></a>
   <a href="/"><img src="https://img.shields.io/badge/Portfolio-%23000000?style=flat&logo=apache&logoColor=white" alt="Portfolio" style="vertical-align:middle; margin-right:10px;"/></a>
 </div>
