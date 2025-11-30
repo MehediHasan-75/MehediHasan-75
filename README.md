@@ -1,4 +1,4 @@
-## About Me 🚀 
+## About Me
 I am a **Problem Solver** & **Ex-Trainee Software Engineer** with a strong foundation in **Full-stack Development**, **Machine Learning**, and **AI**.  
 Currently, I am working on building AI-powered solutions with **Next.js**, **Django**, **Node.js**, and **LLMs** (Large Language Models).  
 I am passionate about developing **innovative AI applications**, from **real-time web apps** to **AI voice assistants**.
@@ -10,7 +10,7 @@ I am passionate about developing **innovative AI applications**, from **real-tim
   <a href="/"><img src="https://img.shields.io/badge/Portfolio-%23000000?style=flat&logo=apache&logoColor=white" alt="Portfolio" style="vertical-align:middle; margin-right:10px;"/></a>
 </div>
 
-## Technical Skills & Achievements 🛠🏆
+## Technical Skills & Achievements
 
 <table>
   <tr>
