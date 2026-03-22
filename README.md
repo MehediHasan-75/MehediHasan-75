@@ -28,8 +28,8 @@ AI & Full-Stack Engineer building production-grade AI systems — **MCP servers*
 | Project | Description | Stack |
 |---|---|---|
 | [**ai_data_brain**](https://github.com/MehediHasan-75/ai_data_brain) | LLM-driven data management platform with MCP integration | Next.js · Django · LangChain · MCP |
-| [**CitationAI**](https://github.com/MehediHasan-75/CitationAI) | Research paper RAG platform — semantic search over academic docs | FastAPI · DeepSeek · Qdrant · Redis |
 | [**AI-Document-Companion**](https://github.com/MehediHasan-75/AI-Document-Companion) | RAG-powered document intelligence with local LLMs | Python · FastAPI · Ollama · ChromaDB |
+| [**CitationAI**](https://github.com/MehediHasan-75/CitationAI) | Research paper RAG platform — semantic search over academic docs | FastAPI · DeepSeek · Qdrant · Redis |
 | [**bangladeshi-audio-ml**](https://github.com/MehediHasan-75/bangladeshi-audio-ml) | Audio ML pipeline for building Bengali speech datasets | Python · ML · Audio Processing |
 | [**lwe-thesis**](https://github.com/MehediHasan-75/lwe-thesis) | Lattice-based cryptography (LWE) — B.Sc. thesis research | Python · Cryptography |
 
