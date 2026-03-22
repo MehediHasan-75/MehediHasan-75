@@ -16,7 +16,7 @@
 AI & Full-Stack Engineer building production-grade AI systems — **MCP servers**, **RAG pipelines**, **LLM agents**, and **full-stack applications**. I go deep on the AI layer (LangChain, LangGraph, vector search, tool-use) while shipping polished **Node.js/FastAPI** backends and modern **Next.js** frontends.
 
 - **AI Focus**: RAG · MCP (Model Context Protocol) · LangGraph agents · Vector search · Voice AI
-- **Backend**: Node.js · FastAPI · Django · Express
+- **Backend**:  FastAPI · Node.js. Django 
 - **Frontend**: Next.js · React · TypeScript
 - **Competitive Programming**: 2000+ problems solved · Codeforces Specialist (1471) · 3★ CodeChef (1693)
 - CS @ SUST (2026) · SUST CP Club Coordinator
