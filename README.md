@@ -28,10 +28,10 @@ AI & Full-Stack Engineer building production-grade AI systems — **MCP servers*
 | Project | Description | Stack |
 |---|---|---|
 | [**ai_data_brain**](https://github.com/MehediHasan-75/ai_data_brain) | LLM-driven data management platform with MCP integration | Next.js · Django · LangChain · MCP |
+| [**AI-Document-Companion**](https://github.com/MehediHasan-75/AI-Document-Companion) | RAG-powered document intelligence with local LLMs | LangChain · FastAPI · Ollama · ChromaDB |
 | [**CitationAI**](https://github.com/MehediHasan-75/CitationAI) | Research paper RAG platform — semantic search over academic docs | FastAPI · DeepSeek · Qdrant · Redis |
-| [**AI-Document-Companion**](https://github.com/MehediHasan-75/AI-Document-Companion) | RAG-powered document intelligence with local LLMs | Python · FastAPI · Ollama · ChromaDB |
-| [**bangladeshi-audio-ml**](https://github.com/MehediHasan-75/bangladeshi-audio-ml) | Audio ML pipeline for building Bengali speech datasets | Python · ML · Audio Processing |
 | [**lwe-thesis**](https://github.com/MehediHasan-75/lwe-thesis) | Lattice-based cryptography (LWE) — B.Sc. thesis research | Python · Cryptography |
+| [**bangladeshi-audio-ml**](https://github.com/MehediHasan-75/bangladesh-audio-ml) | Audio ML pipeline for building Bengali speech datasets | Python · ML · Audio Processing |
 
 ---
 
@@ -40,7 +40,6 @@ AI & Full-Stack Engineer building production-grade AI systems — **MCP servers*
 **AI / ML**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-7C3AED?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-Pipelines-00D9FF?style=flat)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
@@ -70,7 +69,6 @@ AI & Full-Stack Engineer building production-grade AI systems — **MCP servers*
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ---
 
