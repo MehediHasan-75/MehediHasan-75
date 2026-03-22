@@ -23,7 +23,7 @@ AI & Full-Stack Engineer building production-grade AI systems — **MCP servers*
 
 ---
 
-## Flagship Projects
+## Notable Projects
 
 | Project | Description | Stack |
 |---|---|---|
