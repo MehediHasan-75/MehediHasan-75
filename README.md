@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+%26+Full-Stack+Engineer;MCP+%7C+RAG+%7C+LangChain+%7C+LangGraph;FastAPI+%7C+Next.js+%7C+Node.js;2000%2B+Problems+Solved+%F0%9F%A7%A0;Building+AI-Powered+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+%26+Full-Stack+Engineer;MCP+%7C+RAG+%7C+LangChain+%7C+LangGraph;FastAPI+%7C+Node.js+%7C+Next.js;2000%2B+Problems+Solved+%F0%9F%A7%A0;Building+AI-Powered+Products" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,10 +13,10 @@
 
 ## About Me
 
-AI & Full-Stack Engineer building production-grade AI systems — **MCP servers**, **RAG pipelines**, **LLM agents**, and **full-stack applications**. I go deep on the AI layer (LangChain, LangGraph, vector search, tool-use) while shipping polished frontends and robust backend APIs.
+AI & Full-Stack Engineer building production-grade AI systems — **MCP servers**, **RAG pipelines**, **LLM agents**, and **full-stack applications**. I go deep on the AI layer (LangChain, LangGraph, vector search, tool-use) while shipping polished **Node.js/FastAPI** backends and modern **Next.js** frontends.
 
 - **AI Focus**: RAG · MCP (Model Context Protocol) · LangGraph agents · Vector search · Voice AI
-- **Backend**: FastAPI · Node.js · Django
+- **Backend**: Node.js · FastAPI · Django · Express
 - **Frontend**: Next.js · React · TypeScript
 - **Competitive Programming**: 2000+ problems solved · Codeforces Specialist (1471) · 3★ CodeChef (1693)
 - CS @ SUST (2026) · SUST CP Club Coordinator
@@ -30,8 +30,7 @@ AI & Full-Stack Engineer building production-grade AI systems — **MCP servers*
 | [**ai_data_brain**](https://github.com/MehediHasan-75/ai_data_brain) | LLM-driven data management platform with MCP integration | Next.js · Django · LangChain · MCP |
 | [**CitationAI**](https://github.com/MehediHasan-75/CitationAI) | Research paper RAG platform — semantic search over academic docs | FastAPI · DeepSeek · Qdrant · Redis |
 | [**AI-Document-Companion**](https://github.com/MehediHasan-75/AI-Document-Companion) | RAG-powered document intelligence with local LLMs | Python · FastAPI · Ollama · ChromaDB |
-| [**mcp-sre-graph**](https://github.com/MehediHasan-75/mcp-sre-graph) | Autonomous SRE incident-response agent via LangGraph + MCP | LangGraph · MCP · Python |
-| [**Brikkho Bondon**](https://github.com/MehediHasan-75/brikkho-bondon) | Tree adoption & environmental action platform (live) | Node.js · Next.js · MongoDB |
+| [**bangladeshi-audio-ml**](https://github.com/MehediHasan-75/bangladeshi-audio-ml) | Audio ML pipeline for building Bengali speech datasets | Python · ML · Audio Processing |
 | [**lwe-thesis**](https://github.com/MehediHasan-75/lwe-thesis) | Lattice-based cryptography (LWE) — B.Sc. thesis research | Python · Cryptography |
 
 ---
@@ -51,11 +50,11 @@ AI & Full-Stack Engineer building production-grade AI systems — **MCP servers*
 
 **Backend**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
 **Frontend**
 
