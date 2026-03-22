@@ -13,7 +13,7 @@
 
 ## About Me
 
-AI & Full-Stack Engineer building production-grade AI systems — **MCP servers**, **RAG pipelines**, **LLM agents**, and **full-stack applications**. I go deep on the AI layer (LangChain, LangGraph, vector search, tool-use) while shipping polished **Node.js/FastAPI** backends and modern **Next.js** frontends.
+AI & Full-Stack Engineer building AI systems — including **MCP servers**, **RAG pipelines**, **LLM agents**, and **full-stack applications**. I focus deeply on the AI layer (LangChain, vector search, tool-use) while delivering robust **Node.js/FastAPI** backends and modern **Next.js** frontends.
 
 - **AI Focus**: RAG · MCP (Model Context Protocol) · LangGraph agents · Vector search · Voice AI
 - **Backend**:  FastAPI · Node.js. Django 
