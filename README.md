@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+%26+Full-Stack+Engineer;MCP+%7C+RAG+%7C+LangChain+%7C+LangGraph;FastAPI+%7C+Node.js+%7C+Next.js;2000%2B+Problems+Solved+%F0%9F%A7%A0;Building+AI-Powered+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+%26+Full-Stack+Engineer;MCP+%7C+RAG+%7C+LangChain+%7C+LangGraph;FastAPI+%7C+Next.js+%7C+Node.js;2000%2B+Problems+Solved+%F0%9F%A7%A0;Building+AI-Powered+Products" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,10 +13,10 @@
 
 ## About Me
 
-AI & Full-Stack Engineer building AI systems — including **MCP servers**, **RAG pipelines**, **LLM agents**, and **full-stack applications**. I focus deeply on the AI layer (LangChain, vector search, tool-use) while delivering robust **Node.js/FastAPI** backends and modern **Next.js** frontends.
+AI & Full-Stack Engineer building production-grade AI systems — **MCP servers**, **RAG pipelines**, **LLM agents**, and **full-stack applications**. I go deep on the AI layer (LangChain, LangGraph, vector search, tool-use) while shipping polished Node.js/FastAPI backends and modern Next.js frontends.
 
 - **AI Focus**: RAG · MCP (Model Context Protocol) · LangGraph agents · Vector search · Voice AI
-- **Backend**:  FastAPI · Node.js. Django 
+- **Backend**: Node.js · FastAPI · Django · Express
 - **Frontend**: Next.js · React · TypeScript
 - **Competitive Programming**: 2000+ problems solved · Codeforces Specialist (1471) · 3★ CodeChef (1693)
 - CS @ SUST (2026) · SUST CP Club Coordinator
@@ -28,10 +28,10 @@ AI & Full-Stack Engineer building AI systems — including **MCP servers**, **RA
 | Project | Description | Stack |
 |---|---|---|
 | [**ai_data_brain**](https://github.com/MehediHasan-75/ai_data_brain) | LLM-driven data management platform with MCP integration | Next.js · Django · LangChain · MCP |
-| [**AI-Document-Companion**](https://github.com/MehediHasan-75/AI-Document-Companion) | RAG-powered document intelligence with local LLMs | LangChain · FastAPI · Ollama · ChromaDB |
 | [**CitationAI**](https://github.com/MehediHasan-75/CitationAI) | Research paper RAG platform — semantic search over academic docs | FastAPI · DeepSeek · Qdrant · Redis |
+| [**AI-Document-Companion**](https://github.com/MehediHasan-75/AI-Document-Companion) | RAG-powered document intelligence with local LLMs | Python · FastAPI · Ollama · ChromaDB |
+| [**bangladeshi-audio-ml**](https://github.com/MehediHasan-75/bangladeshi-audio-ml) | Audio ML pipeline for building Bengali speech datasets | Python · ML · Audio Processing |
 | [**lwe-thesis**](https://github.com/MehediHasan-75/lwe-thesis) | Lattice-based cryptography (LWE) — B.Sc. thesis research | Python · Cryptography |
-| [**bangladeshi-audio-ml**](https://github.com/MehediHasan-75/bangladesh-audio-ml) | Audio ML pipeline for building Bengali speech datasets | Python · ML · Audio Processing |
 
 ---
 
@@ -40,6 +40,7 @@ AI & Full-Stack Engineer building AI systems — including **MCP servers**, **RA
 **AI / ML**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-7C3AED?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-Pipelines-00D9FF?style=flat)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
@@ -69,6 +70,7 @@ AI & Full-Stack Engineer building AI systems — including **MCP servers**, **RA
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ---
 
@@ -84,7 +86,7 @@ AI & Full-Stack Engineer building AI systems — including **MCP servers**, **RA
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MehediHasan-75&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehediHasan-75&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
